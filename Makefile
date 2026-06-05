@@ -1,0 +1,3 @@
+compile:
+	echo compiling...
+	gcc --std=gnu89 mikutermresizer.c -o term-resizer -Wall -Werror
